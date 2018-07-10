@@ -1,0 +1,17 @@
+{
+	"name": "OpenOnMac",
+	"version": "0.0.0",
+	"description": "Open webpages on your Mac from your iPad",
+	"main": "OpenOnMac.js",
+	"scripts": {},
+	"repository": {},
+	"author": "Alex Guyot",
+	"license": "ISC",
+	"bugs": {},
+	"homepage": "",
+	"dependencies": {
+		"express": "latest",
+		"ip": "^1.1.5",
+		"opn": "^5.3.0"
+	}
+}
